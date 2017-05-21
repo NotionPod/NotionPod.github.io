@@ -29,9 +29,11 @@ Mentioned in the show:
 * [How the inventor of Mario designs a game][mario-designer]
 * [Hands][hands-napier] book by John Napier
 * [IBM RealCD][ibm-realcd] skeumorphic software design
+* [Optimus LCD keyboard][lcd-keyboard] design from 2006 with software-definable key tops
 
 
 [design-book]: https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things
 [mario-designer]: https://www.youtube.com/watch?v=K-NBcP0YUQI
 [hands-napier]: https://www.goodreads.com/book/show/1082840.Hands
 [ibm-realcd]: http://hallofshame.gp.co.at/realcd.htm
+[lcd-keyboard]: http://www.artlebedev.com/optimus/
