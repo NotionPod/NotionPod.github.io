@@ -5,13 +5,9 @@ description: > # this means to ignore newlines until "baseurl:"
   Start with a rant, end with a new idea. Hosted by Chris Radcliff and Ben Etherington
 baseurl: "" # the subpath of your site, e.g. /blog
 timezone: America/Los_Angeles
-url: "notion.farm" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://notion.farm # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: notionpod
 permalink: :title.html
-# github_username:  jekyll
-
-
-
 
 # Build settings
 markdown: kramdown
@@ -21,3 +17,15 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# Podcast Feed Settings
+
+itunes-description:  Ben Etherington and Chris Radcliff have a lot of interests, and with a lot of interests come a lot of complaints. They started Notion.farm to convince each other the world isn't quite so bad.
+subtitle: Start with a rant, end with a new idea.
+lang: en-us
+album-art: /images/NF-album-art-1024.jpg
+copyright: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+keywords: haven't-built-this-list-yet
+author: Chris Radcliff and Ben Etherington
+explicit: no
+block-from-itunes: no
