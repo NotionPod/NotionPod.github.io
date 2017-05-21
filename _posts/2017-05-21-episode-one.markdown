@@ -6,6 +6,8 @@ permalink: '1'
 excerpt: "Welcome to Notion.farm! Ben and Chris get things going with some human-oriented design."
 categories: episode
 tags: [design, Don Norman]
+file: audio/Notionfarm episode 1.mp3
+length: 55:32
 ---
 
 <script src="/audiojs/audio.min.js"></script>
