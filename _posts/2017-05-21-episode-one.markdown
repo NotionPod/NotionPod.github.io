@@ -3,7 +3,6 @@ layout: post
 title:  "Episode One: Design"
 date:   2017-05-21 11:52:16 -0700
 permalink: '1'
-excerpt: "Welcome to Notion.farm! Ben and Chris get things going with some human-oriented design."
 categories: episode
 tags: [design, Don Norman, Mario, games]
 file: episode-1.mp3
@@ -22,7 +21,7 @@ length: '3332'
 
 Welcome to Notion.farm! Ben and Chris get things going with some human-oriented design.
 
-{{ post.excerpt }}
+{{ excerpt_separator }}
 
 Mentioned in the show:
 * [Don Norman's Design of Everyday Things][design-book]
