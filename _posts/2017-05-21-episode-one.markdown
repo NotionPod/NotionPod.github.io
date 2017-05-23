@@ -7,7 +7,7 @@ excerpt: "Welcome to Notion.farm! Ben and Chris get things going with some human
 categories: episode
 tags: [design, Don Norman, Mario, games]
 file: Notionfarm episode 1.mp3
-length: 55:32
+length: '3332'
 ---
 
 <script src="/audiojs/audio.min.js"></script>

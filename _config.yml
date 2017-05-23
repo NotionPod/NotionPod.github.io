@@ -27,5 +27,5 @@ album-art: /images/NF-album-art-1024.jpg
 copyright: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 keywords: haven't-built-this-list-yet
 author: Chris Radcliff and Ben Etherington
-explicit: no
-block-from-itunes: no
+explicit: 'no'
+block-from-itunes: 'no'
