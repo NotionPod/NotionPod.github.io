@@ -1,3 +1,5 @@
+test-announcement.markdown
+
 ---
 layout: post
 title:  "It's a thing it's a thing it's a thing"
@@ -12,3 +14,4 @@ This is an exerpt!
 {{ exerpt_separator }}
 
 This is behind the read more!
+ No newline at end of file
