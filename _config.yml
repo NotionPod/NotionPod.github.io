@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Start with a rant, end with a new idea. Hosted by Chris Radcliff and Ben Etherington.
 baseurl: "" # the subpath of your site, e.g. /blog
 timezone: America/Los_Angeles
-url: https://notion.farm # the base hostname & protocol for your site, e.g. http://example.com
+url: http://notion.farm # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: notion_farm
 permalink: :title.html
 
@@ -17,6 +17,9 @@ paginate: 5
 paginate_path: '/page-:num/'
 show_social:
   twitter: notion-farm
+  email: mailto:notion.pod@gmail.com
+  rss: http://notion.farm/podcast.rss
+related_posts_disabled: false
 
 # Build settings
 markdown: kramdown
