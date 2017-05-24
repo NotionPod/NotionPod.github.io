@@ -3,6 +3,8 @@ GEM
   specs:
     addressable (2.5.1)
       public_suffix (~> 2.0, >= 2.0.2)
+    byebug (9.0.6)
+    coderay (1.1.1)
     colorator (1.1.0)
     ffi (1.9.18)
     forwardable-extended (2.6.0)
@@ -33,8 +35,19 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
+    method_source (0.8.2)
+    octopress-debugger (1.0.2)
+      jekyll
+      pry-byebug
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
+    pry (0.10.4)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
+    pry-byebug (3.4.2)
+      byebug (~> 9.0)
+      pry (~> 0.10)
     public_suffix (2.0.5)
     rb-fsevent (0.9.8)
     rb-inotify (0.9.8)
@@ -42,6 +55,7 @@ GEM
     rouge (1.11.1)
     safe_yaml (1.0.4)
     sass (3.4.24)
+    slop (3.6.0)
 
 PLATFORMS
   ruby
@@ -51,6 +65,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-paginate
   jekyll-theme-hydejack
+  octopress-debugger
   tzinfo-data
 
 RUBY VERSION
