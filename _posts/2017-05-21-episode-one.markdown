@@ -10,11 +10,10 @@ file: episode-1.mp3
 length: '3332'
 ---
 
+<script src="/audiojs/audio.min.js"></script>
 <script>
-  loadJSDeferred('/audiojs/audio.min.js', function() {
-    audiojs.events.ready(function() {
-      var as = audiojs.createAll();
-    });
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
   });
 </script>
 
