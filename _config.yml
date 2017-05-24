@@ -10,7 +10,7 @@ twitter_username: notion_farm
 permalink: :title.html
 
 # Hydejack theme settings
-image: /images/grass.jpg
+image: /images/grass-blurred.jpg
 color: '#006600'
 google_analytics: ''
 paginate: 5
