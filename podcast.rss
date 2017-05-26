@@ -38,11 +38,11 @@
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
                 <description>{{ post.excerpt | xml_escape }}</description>
                 <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-                <enclosure url="http:{{ site.url }}/audio/{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
+                <enclosure url="{{ site.url }}/audio/{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
                 <itunes:author>{{ site.author }}</itunes:author>
                 <itunes:subtitle>{{ site.title }}: {{ post.title }}</itunes:subtitle>
                 <itunes:summary>{{ post.excerpt | xml_escape }}</itunes:summary>
-                <itunes:duration>{{ post.duration }}</itunes:duration>
+                <itunes:duration>{{ post.length }}</itunes:duration>
                 <itunes:keywords>{{ post.keywords }}</itunes:keywords>
                 <itunes:image href="{{ site.url }}/images/itunes.png" />
                 <itunes:explicit>{{ site.explicit }}</itunes:explicit>

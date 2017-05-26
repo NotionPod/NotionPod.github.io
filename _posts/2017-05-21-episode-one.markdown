@@ -6,7 +6,7 @@ permalink: '1'
 excerpt: "Welcome to Notion.farm! Ben and Chris get things going with some human-oriented design."
 categories: episode
 tags: [design, Don Norman, Mario, games]
-file: Notionfarm episode 1.mp3
+file: episode-1.mp3
 length: 55:32
 ---
 
@@ -18,12 +18,10 @@ length: 55:32
   });
 </script>
 
-<audio src="audio/Notionfarm episode 1.mp3" preload="auto"></audio>
+<audio src="audio/episode-1.mp3" preload="auto"></audio>
 <p></p>
 
 Welcome to Notion.farm! Ben and Chris get things going with some human-oriented design.
-
-{{ post.excerpt }}
 
 Mentioned in the show:
 * [Don Norman's Design of Everyday Things][design-book]
