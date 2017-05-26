@@ -10,17 +10,6 @@ file: episode-1.mp3
 length: 55:32
 ---
 
-<script>
-  loadJSDeferred('/audiojs/audio.min.js', function() {
-    audiojs.events.ready(function() {
-      var as = audiojs.createAll();
-    });
-  });
-</script>
-
-<audio src="audio/episode-1.mp3" preload="auto"></audio>
-<p></p>
-
 Welcome to Notion.farm! Ben and Chris get things going with some human-oriented design.
 
 Mentioned in the show:

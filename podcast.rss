@@ -42,7 +42,7 @@
                 <itunes:author>{{ site.author }}</itunes:author>
                 <itunes:subtitle>{{ site.title }}: {{ post.title }}</itunes:subtitle>
                 <itunes:summary>{{ post.excerpt | xml_escape }}</itunes:summary>
-                <itunes:duration>{{ post.length }}</itunes:duration>
+                <itunes:duration>{{ post.length | round }}</itunes:duration>
                 <itunes:keywords>{{ post.keywords }}</itunes:keywords>
                 <itunes:image href="{{ site.url }}/images/itunes.png" />
                 <itunes:explicit>{{ site.explicit }}</itunes:explicit>
