@@ -18,7 +18,7 @@ length: 55:32
   });
 </script>
 
-<audio src="audio/episode-1.mp3" preload="auto"></audio>
+<audio src="audio/{{ page.file }}" preload="auto"></audio>
 <p></p>
 
 Welcome to Notion.farm! Ben and Chris get things going with some human-oriented design.
