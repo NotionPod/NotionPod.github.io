@@ -23,7 +23,6 @@ related_posts_disabled: false
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hydejack
 gems:
   - jekyll-feed
   - jekyll-paginate
