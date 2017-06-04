@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Episode Two: Laser Razor"
-date:   2017-6-4
+date:   2017-6-4 07:50:00 -0700
 permalink: '2'
 categories: episode
-tags: [skarp, laser, kickstarter, indiegogo, derek sivers, crowd funding, product design, imposter syndrome, keep your goals to yourself, incompetence, dunning-kruger]
+tags: [skarp, laser, kickstarter, indiegogo, crowd funding, product design, imposter syndrome, dunning-kruger]
 
 file: episode-2.mp3
 length: 57:40
