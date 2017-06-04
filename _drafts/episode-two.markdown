@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Episode Two: Laser Razor"
-date: 
+title:  "Episode Two: Laser Razor"
+date:   2017-6-4
 permalink: '2'
 categories: episode
-tags: []
+tags: [skarp, laser, kickstarter, indiegogo, derek sivers, crowd funding, product design, imposter syndrome, keep your goals to yourself, incompetence, dunning-kruger]
 
 file: episode-2.mp3
-length: 
+length: 57:40
 ---
 
-
+Skarp is a futuristic razor that uses a laser to give you a clean shave! Or, at least, that's the theory.
 
 {{ excerpt_separator }}
 
@@ -21,7 +21,9 @@ Mentioned in the show:
 * [Derek Sivers' TED talk: Keep Your Goals To Yourself][sivers]
 * [Business Insider's coverage of Slack's origins][slack]
 * [The Uncanny Valley of Skarp][golden]
+* [We're hosted on Github][git]
 * [Children of Tendu podcast][tendu]
+* [The Orbital Mechanics Podcast][TOM]
 
 
 
@@ -31,4 +33,6 @@ Mentioned in the show:
 [sivers]: https://www.ted.com/talks/derek_sivers_keep_your_goals_to_yourself
 [slack]: http://www.businessinsider.com/inside-the-video-game-roots-of-slack-2016-3
 [golden]: http://i1.kym-cdn.com/photos/images/original/000/234/739/fa5.jpg
+[git]: https://github.com/NotionPod/NotionPod.github.io
 [tendu]: http://childrenoftendu.libsyn.com/
+[TOM]: http://theorbitalmechanicspodcast.com
