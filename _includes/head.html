@@ -56,6 +56,25 @@
   {% include scripts/cssrelpreload.min.js %}
 </script>
 
+<script src="/build/jquery.js"></script>
+<script src="/build/mediaelement-and-player.min.js"></script>
+<!-- Add any other renderers you need; see Use Renderers for more information -->
+<link rel="stylesheet" href="/build/mediaelementplayer.min.css" />
+<script>
+  // You can use either a string for the player ID (i.e., `player`), 
+  // or `document.querySelector()` for any selector
+  var player = new MediaElement('player', {
+    pluginPath: "/path/to/shims/",
+    success: function(mediaElement, originalNode) {
+      // do things
+
+    }
+  });
+
+</script>
+
+
+
 <!--[if lt IE 9]>
 <script src="https://unpkg.com/html5shiv/dist/html5shiv.min.js"></script>
 <![endif]-->
