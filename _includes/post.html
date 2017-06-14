@@ -25,15 +25,9 @@
   <hr/>
 
   {% unless include.excerpt %}
-    <script>
-      loadJSDeferred('/audiojs/audio.min.js', function() {
-        audiojs.events.ready(function() {
-          var as = audiojs.createAll();
-        });
-      });
-    </script>
 
-    <audio src="audio/{{ page.file }}" preload="auto"></audio>
+    <audio src="/audio/episode-1.mp3" class="mejs__player"></audio>
+
     <p></p>
     {{ post.content }}
   {% else %}
