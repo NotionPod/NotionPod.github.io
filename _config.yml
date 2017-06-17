@@ -19,7 +19,7 @@ show_social:
   twitter: notion-farm
   email: mailto:notion.pod@gmail.com
   github: https://github.com/NotionPod/NotionPod.github.io
-  rss: http://notion.farm/podcast.
+  rss: http://notion.farm/podcast
 related_posts_disabled: false
 
 # Build settings
