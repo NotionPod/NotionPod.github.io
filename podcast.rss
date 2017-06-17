@@ -27,7 +27,8 @@
             <itunes:name>{{ site.author }}</itunes:name>
             <itunes:email>{{ site.email }}</itunes:email>
         </itunes:owner>
-        <itunes:image href="{{ site.url }}{{ site.album-art  }}" />
+        <itunes:image href="{{ site.url }}{{ site.album-art-low }}" />
+        <googleplay:image href="{{ site.url }}{{ site.album-art-high }}" />
         <itunes:category text="Technology"></itunes:category>
         <itunes:category text="Society &amp; Culture"></itunes:category>
         <itunes:explicit>{{ site.explicit }}</itunes:explicit>

@@ -18,7 +18,8 @@ paginate_path: '/page-:num/'
 show_social:
   twitter: notion-farm
   email: mailto:notion.pod@gmail.com
-  rss: http://notion.farm/podcast.rss
+  github: https://github.com/NotionPod/NotionPod.github.io
+  rss: http://notion.farm/podcast.
 related_posts_disabled: false
 
 # Build settings
@@ -36,9 +37,10 @@ exclude:
 itunes-description:  Ben Etherington and Chris Radcliff have a lot of interests, and with a lot of interests come a lot of complaints. They started Notion.farm to convince each other the world isn't quite so bad.
 subtitle: Start with a rant, end with a new idea.
 lang: en-us
-album-art: /images/NF-album-art-1024.jpg
+album-art-low: /images/NF-album-art-1024.jpg
+album-art-high: /images/NF-album-art-4435.jpg
 copyright: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-keywords: haven't-built-this-list-yet
+keywords: technology, positive, discussion, design, science, sci-fi, 
 author: Chris Radcliff and Ben Etherington
 explicit: no
 block-from-itunes: no
