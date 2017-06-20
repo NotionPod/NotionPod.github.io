@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Episode Two: Laser Razor"
-date:   2017-6-4 07:50:00 -0700
+date:   2017-06-04 07:50:00 -0700
 permalink: '2'
 categories: episode
 tags: [skarp, laser, kickstarter, indiegogo, crowd funding, product design, imposter syndrome, dunning-kruger]
