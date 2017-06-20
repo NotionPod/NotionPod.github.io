@@ -33,7 +33,7 @@
 
   {% unless include.excerpt %}
 
-    <audio src="/audio/episode-1.mp3" class="mejs__player"></audio>
+    <audio src="/audio/{{ post.file }}" class="mejs__player"></audio>
 
     <p></p>
     {{ post.content }}
