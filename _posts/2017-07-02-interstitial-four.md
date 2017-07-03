@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Interstitial Four: Touchbar Followup"
-date:   2017-07-02 17:00:00 -0700
-permalink: '4'
+date:   2017-07-02 18:00:00 -0700
+permalink: 'i4'
 categories: [episode, interstitial]
 tags: [apple, macbook pro, touchbar, force touch]
 

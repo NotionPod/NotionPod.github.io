@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Episode Four: Intelligence v. Knowledge"
-date:   2017-07-02 17:00:00 -0700
+date:   2017-07-02 18:00:00 -0700
 permalink: '4'
 categories: episode
 tags: [intelligence, dunning kruger, knowledge]
