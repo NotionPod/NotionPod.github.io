@@ -6,11 +6,11 @@ permalink: '5'
 categories: episode
 tags: [learning, design, elevators, woodworking]
 
-file: episode-4.mp3
-length: 1:06:21
+file: episode-5.mp3
+length: 55:11
 ---
 
-(>|<) and (<|>) are universally accepted and totally horrible.
+(>\|<) and (<\|>) are universally accepted and totally horrible.
 
 {{ excerpt_separator }}
 
@@ -18,12 +18,12 @@ Mentioned in the show:
 
 * [Imaginary Worlds Podcast][imaginary]
 * [Photos of Ben's coffee table][table], with the sanding dust photo included
-* [phys-gir-boat][The Physics Girl's presentation of the boat-rock problem]
-* [phys-conf][XKCD 1867], an oddly on-topic comic that came out two days after we recorded this.
-* [prime][Priming is the effect that can keep you from seeing ambiguous situations as anything but your original impression.]
-* [wave][The Underwave off Kanagawa]
-* [paternoster][Paternoster elevators on Wikipedia]
-* [drake][Frank Drake's AMA]
+* [The Physics Girl's presentation of the boat-rock problem][phys-girl-boat]
+* [XKCD 1867][phys-conf], an oddly on-topic comic that came out two days after we recorded this.
+* [Priming is the effect that can keep you from seeing ambiguous situations as anything but your original impression.][prime]
+* [The Underwave off Kanagawa][wave]
+* [Paternoster elevators on Wikipedia][paternoster]
+* [Frank Drake's AMA][drake]
 
 [table]: http://imgur.com/a/a7X78
 [imaginary]: https://www.imaginaryworldspodcast.org/
