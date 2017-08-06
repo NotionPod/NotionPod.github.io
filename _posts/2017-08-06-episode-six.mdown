@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Episode Six: Terreria"
-date:   2017-08-06 11:00:00 -0700
+date:   2017-08-06 13:50:00 -0700
 permalink: '5'
 categories: episode
 tags: [asteroid, space exploration, future, society]
@@ -10,7 +10,7 @@ file: episode-6.mp3
 length: 1:01:26
 ---
 
-I don't want to live on this planet anymore. Let's go live on asteroids
+I don't want to live on this planet anymore. Let's go live on asteroids!
 
 {{ excerpt_separator }}
 
