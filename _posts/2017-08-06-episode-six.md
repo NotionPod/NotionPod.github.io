@@ -16,15 +16,15 @@ I don't want to live on this planet anymore. Let's go live on asteroids!
 
 Mentioned in the show:
 
-* [deepspace][Deep Space Ecology might be the kind of company that sets up terreria for colonists]
-* [Virga][Sun of Suns is the first book in the Virga series], a set of stories that feature a society where gravity is expensive.
-* [asteroid][Wiki article on the asteroid belt], with details on the different types of asteroids.
-* [moses][Robert Moses built bridges too low for busses to clear.]
-* [hoover][The dam that was built near by Las Vegas was the Hoover Dam.]
-* [mao-kwik][Mao-Kwikowski is a reference to The Expanse series of books and TV show]
-* [invsq][The inverse-square law states that the farther you go from the sun, the power you can draw from it decreases as the square of the distance.]
-* [quant-qual][A short article on how quantity trumps quality], contains the little ceramics class example.
-* [orbitbooks][Building a KSR-style Terrarium] Interactive made for the 2312 book.
+* [Deep Space Ecology might be the kind of company that sets up terreria for colonists][deepspace]
+* [Sun of Suns is the first book in the Virga series][Virga], a set of stories that feature a society where gravity is expensive.
+* [Wiki article on the asteroid belt][asteroid], with details on the different types of asteroids.
+* [Robert Moses built bridges too low for busses to clear.][moses]
+* [The dam that was built near by Las Vegas was the Hoover Dam.][hoover]
+* [Mao-Kwikowski is a reference to The Expanse series of books and TV show][mao-kwik]
+* [The inverse-square law states that the farther you go from the sun, the power you can draw from it decreases as the square of the distance.][invsq]
+* [A short article on how quantity trumps quality][quant-qual], contains the little ceramics class example.
+* [Building a KSR-style Terrarium][orbitbooks] Interactive made for the 2312 book.
 
 [deepspace]: http://www.deepspaceecology.com/
 [virga]: https://en.wikipedia.org/wiki/Sun_of_Suns
