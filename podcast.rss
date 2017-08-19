@@ -39,6 +39,9 @@
                 <description>{{ post.excerpt | xml_escape }}</description>
                 <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
                 <enclosure url="{{ site.url }}/audio/{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
+                <content:encoded><![CDATA[
+                    {{ post.content | markdownify }}
+                ]]></content:encoded>
                 <itunes:author>{{ site.author }}</itunes:author>
                 <itunes:subtitle>{{ site.title }}: {{ post.title }}</itunes:subtitle>
                 <itunes:summary>{{ post.excerpt | xml_escape }}</itunes:summary>
