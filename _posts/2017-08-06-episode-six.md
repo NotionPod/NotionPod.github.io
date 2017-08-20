@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Episode Six: Terreria"
+title:  "Episode Six: Terraria"
 date:   2017-08-06 13:50:00 -0700
 permalink: '6'
 categories: episode
