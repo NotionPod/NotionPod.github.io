@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Episode Six: White Supremacy"
-date:   2017-08-19 11:30:00 -0700
+title:  "Episode Seven: White Supremacy"
+date:   2017-8-20 14:30:00 -0700
 permalink: '7'
 categories: episode
-tags: [racism, white supremacy, sexism, discrimination, privilege]
+tags: [racism, white supremacy, white nationalism, nazis, sexism, discrimination, privilege]
 
 file: episode-7.mp3
 length: 
 ---
 
-We live in an unjust society. Fixing it is our work to do.
+We live in an unjust society, let's talk about how to fight it.
 
 {{ excerpt_separator }}
 
